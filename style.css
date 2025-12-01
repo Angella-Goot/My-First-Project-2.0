@@ -75,9 +75,12 @@ ABOUT
 
 */
 
-#about {
+#about, #discord, #contact {
     padding: 40px 0;
-    background-color: #f8ffdc;
+}
+
+#about {
+    background-color: #faffdc;
 }
 
 h2 {
@@ -110,4 +113,14 @@ img {
     font-size: 20px;
     line-height: 1.5;
     margin-bottom: 24px;
+}
+
+/*
+
+DISCORD
+
+*/
+
+#discord {
+    background-color: #cefeff;
 }
